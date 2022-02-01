@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Tang</h1>
 <h3 align="center">I am passionate about developing apps that are clean, fast, and intuitive, that solve daily problems for users.</h3>
 
-- 🔭 I’m currently working on [CollaborEats](https://github.com/tangivan/CollaborEats)
+- 🔭 I’m currently working on [CollaborEats](https://github.com/tangivan/CollaborEats) and [Codesnips](https://github.com/tangivan/codesnips-project)
 
 - 🌱 I’m currently learning **Typescript with React**
 
